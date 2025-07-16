@@ -15,7 +15,6 @@
     <strong style="color: #28A745;">1. Bayes' Theorem Foundation:</strong>
     <p style="margin-top: 5px;">The algorithm calculates the probability of a certain event happening given that another event has already occurred. In classification, this means calculating the probability of a data point belonging to a certain class, given its features.</p>
     <p align="center" style="font-size: 1.3em; font-weight: bold; color: #28A745; margin: 10px 0;">
-$$ P(\text{Class} | \text{Features}) = \frac{P(\text{Features} | \text{Class}) \times P(\text{Class})}{P(\text{Features})} $$
     </p>
     <ul style="list-style-type: none; padding: 0; font-size: 1.0em; color: #555;">
       <li>$P(\text{Class} | \text{Features})$: The probability of the class given the features (what we want to find).</li>
